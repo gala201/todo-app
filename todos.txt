@@ -1,0 +1,8 @@
+prepare
+clean
+write
+
+uci
+
+Make soup
+Make pizza
