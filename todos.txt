@@ -1,9 +1,7 @@
 prepare
 clean
 write
-
-uci
-
 Make soup
 Make pizza
 skokni do ducana
+lastly
